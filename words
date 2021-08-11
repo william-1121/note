@@ -1,0 +1,53 @@
+apps are assembled from many modules 	组装
+compilation unit 	编译单元（module）
+a cohesive block of code 	内聚代码块
+feature module 	功能模块
+by convention 	按惯例
+ship as 	作为
+declare 	声明
+template syntax	 模板语法
+custom element 	自定义语法
+present 	展示
+represent 	代表
+an instance of component 	组件的一个实例
+interpolation 	插值
+encompass 	包括
+mediate 	调解
+factor your application logic into services 分解
+try it out 	试试看
+accumulate 	累积
+verbose 	冗长的
+clumsy 	笨拙的
+tedius		枯燥的
+refer to / reference ...from ... 	引用
+pass value, not element 	传递值，而不是元素
+basic primitives 	基本原语
+data-entry experience 	数据输入体验
+track 	跟踪
+validation 	验证
+from scratch 	从头开始
+monitor 	监视
+the validity of form contronls 	表单控件的有效性
+share information 共享信息
+trigger built-in visual feedback 	出发内置视觉反馈
+repetitive, boileplate tasks 	重复，样板的任务
+amnamic model 	贫血模型
+additional features 	附加功能
+mandatory fields	必填字段
+nested messages	嵌套消息
+pros and cons		利弊
+supersedes	取代
+compact	紧凑的
+scalable	可扩展的
+navigate the structure of client-side web project	浏览...的结构
+carry out debugging and development	进行调和开发
+technical possibilitis of ...	...的技术可能性
+interface design	界面设计
+functional and non-functional requirement	功能和非功能需求
+conflict priorities 	优先级冲突
+encapsulate	封装
+built-in browser page objects	内置浏览器页面对象
+we have already encountered classes for... 我们已经遇到...的类
+pragmatic	务实
+be derived from	从...中派生 
+spiral		螺旋
